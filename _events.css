@@ -1,0 +1,19 @@
+.events-title {
+  text-align: center;
+  font-size: 4vmin;
+  color: var(--thirdy-color);
+}
+.events-row {
+  margin-top: 50px;
+}
+.events-row-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.events-row img {
+  width: 80%;
+}
+.events-row .button {
+  margin-top: 30px;
+}/*# sourceMappingURL=_events.css.map */
